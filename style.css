@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #99FF99;
+    color: #334;
+    padding: 30px;
+}
+
+.countdown {
+    background: #FFFF99;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 90px rgba(0, 0, 0, 0.8);
+}
+
+#timer {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#timer div {
+    margin: 0 10px;
+    font-size: 1.3em;
+}
